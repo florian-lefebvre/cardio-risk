@@ -15,6 +15,15 @@ pnpm dev
 
 ## Using git
 
+### Retrieving new code
+
+```
+git pull
+pnpm i
+```
+
+### Pushing new code
+
 ```
 git add .
 git commit -m "<commit-msg>"
